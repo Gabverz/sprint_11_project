@@ -1,4 +1,4 @@
-# Proteja Seu Amanhã Insurance Company - Data Privacy and ML Analysis Project
+# Protct Your Tomorrow Insurance Company - Data Privacy and ML Analysis Project
 
 ### Problem Context:
 Development of a comprehensive machine learning system for insurance company tasks while implementing data obfuscation techniques to protect customer privacy, addressing customer similarity analysis, payment prediction, and secure data processing.
